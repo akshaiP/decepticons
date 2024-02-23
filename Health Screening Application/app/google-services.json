@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837938131208",
+    "project_id": "appformentaldisorder",
+    "storage_bucket": "appformentaldisorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837938131208:android:3f00d34204e967f09fbcbd",
+        "android_client_info": {
+          "package_name": "com.example.sih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837938131208-sgr8u40b0noa5t9jhqqdfj3je9gs71bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVKEVLnYvYf10wcNta6QIv6Fg86_PTRy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837938131208-sgr8u40b0noa5t9jhqqdfj3je9gs71bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
