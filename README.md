@@ -28,9 +28,9 @@ These instructions will help to function the project..
 3. **Build and Run:**
     - Build and run the project in Android Studio.
 
-##Web Page##
+## Web Page ##
     - Open the `web-page` folder in your preferred code editor.
-    - Launch the web page using [instructions, e.g., `npm start` or opening `index.html`].
+    - Launch the web page using [instructions: `npm run dev`] in the terminal.
   
 
 
